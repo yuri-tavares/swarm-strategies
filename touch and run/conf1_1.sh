@@ -1,3 +1,4 @@
+# Example of a config file for experiment.sh
 varsExp=( K )
 #~ minExp=( 4 )     
 #~ maxExp=( 40 ) 
